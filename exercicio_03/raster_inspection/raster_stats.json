@@ -1,0 +1,68 @@
+{
+    "MDS.tif": {
+        "band_1": {
+            "min_manual": 726.5802001953125,
+            "min_automatic": 726.5802001953125,
+            "max_manual": 729.6160888671875,
+            "max_automatic": 729.6160888671875,
+            "mean_manual": 727.976318359375,
+            "mean_automatic": 727.9763650822205,
+            "std_manual": 0.6312936544418335,
+            "std_automatic": 0.6312936838015526
+        }
+    },
+    "Orthomosaico.tif": {
+        "band_1": {
+            "min_manual": 0.0,
+            "min_automatic": 1.0,
+            "max_manual": 241.0,
+            "max_automatic": 241.0,
+            "mean_manual": 99.15155029296875,
+            "mean_automatic": 143.78035556116316,
+            "std_manual": 69.87265014648438,
+            "std_automatic": 25.747781032441726
+        },
+        "band_2": {
+            "min_manual": 0.0,
+            "min_automatic": 29.0,
+            "max_manual": 219.0,
+            "max_automatic": 219.0,
+            "mean_manual": 95.09281921386719,
+            "mean_automatic": 137.89476240956114,
+            "std_manual": 65.3163070678711,
+            "std_automatic": 16.861524039382168
+        },
+        "band_3": {
+            "min_manual": 0.0,
+            "min_automatic": 15.0,
+            "max_manual": 213.0,
+            "max_automatic": 213.0,
+            "mean_manual": 86.83917999267578,
+            "mean_automatic": 125.92610272479988,
+            "std_manual": 59.960811614990234,
+            "std_automatic": 17.073499059108435
+        },
+        "band_4": {
+            "min_manual": 0.0,
+            "min_automatic": 0.0,
+            "max_manual": 255.0,
+            "max_automatic": 255.0,
+            "mean_manual": 175.84909057617188,
+            "mean_automatic": 175.84909336388185,
+            "std_manual": 117.97718811035156,
+            "std_automatic": 117.97718072106417
+        }
+    },
+    "Indice_GLI.tif": {
+        "band_1": {
+            "min_manual": -0.13436171412467957,
+            "min_automatic": -0.13436171412467957,
+            "max_manual": 0.5235465168952942,
+            "max_automatic": 0.5235465168952942,
+            "mean_manual": 0.011541950516402721,
+            "mean_automatic": 0.011541950199016195,
+            "std_manual": 0.06021063029766083,
+            "std_automatic": 0.0602106316819782
+        }
+    }
+}
