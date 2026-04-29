@@ -1,0 +1,33 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="TIFFTAG_DATETIME">2025:12:10 11:06:58</MDI>
+    <MDI key="TIFFTAG_SOFTWARE">Pix4Dfields 2.0.0 (ca46e9956)</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">255</MDI>
+      <MDI key="STATISTICS_MEAN">162.07100396074</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_STDDEV">38.846783773541</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">69.51</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="2">
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">255</MDI>
+      <MDI key="STATISTICS_MEAN">139.67012915447</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_STDDEV">30.135236407332</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">69.51</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="3">
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">250</MDI>
+      <MDI key="STATISTICS_MEAN">97.713848803169</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_STDDEV">29.863333351854</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">69.51</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
